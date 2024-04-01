@@ -1,0 +1,2 @@
+# netflixGPT
+react practice app
